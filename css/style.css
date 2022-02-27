@@ -1,0 +1,8 @@
+.col {
+  margin-top: 15px;
+  padding: 20px;
+}
+#spinner {
+  display: none;
+  width: 100px;
+}
